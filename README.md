@@ -1,1 +1,3 @@
 社团管理系统
+使用springboot+mybatis开发，使用了apachepoi包实现excel自动读写生成。使用r语言生成词云文件。
+本系统可通过www.echool.cn进行访问
